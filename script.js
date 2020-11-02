@@ -13,7 +13,7 @@ const checks = [
 function createLink() {
     var obj = {};
     texts.forEach(x => obj[x] = document.getElementById("field-" + x).value);
-    checks.forEach(x => obj[x] = document.getElementById("checkbox-" + x).checked);
+    checks.forEach(x => obj[x] = document.getElementById("ox-" + x).checked);
 
     var str = Object.keys(obj).map(x => x + '=' + obj[x]).join("&");
 
