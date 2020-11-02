@@ -1,13 +1,12 @@
 
 const texts = [
     "firstname", "lastname",
-    "address", "zipcode", "town",
+    "address", "zipcode", "city",
     "birthday", "lieunaissance",
 ]
 
-const checks = [
-    "travail", "sport", "courses", "sante",
-    "famille","missions", "judiciaire",
+    "travail", "enfants", "convocation", "achats", "sport_animaux", "courses", "sante",
+    "famille", "handicap", "missions", "judiciaire",
 ]
 
 
