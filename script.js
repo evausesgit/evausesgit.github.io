@@ -4,7 +4,7 @@ const texts = [
     "address", "zipcode", "city",
     "birthday", "lieunaissance",
 ]
-
+const checks = [
     "travail", "enfants", "convocation", "achats", "sport_animaux", "courses", "sante",
     "famille", "handicap", "missions", "judiciaire",
 ]
