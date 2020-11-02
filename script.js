@@ -2,7 +2,7 @@
 const texts = [
     "firstname", "lastname",
     "address", "zipcode", "city",
-    "birthday", "lieunaissance",
+    "birthday", "placeofbirth",
 ]
 const checks = [
     "travail", "enfants", "convocation", "achats", "sport_animaux", "courses", "sante",
